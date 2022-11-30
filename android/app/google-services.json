@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847246832445",
+    "project_id": "mason-ewing-corporation",
+    "storage_bucket": "mason-ewing-corporation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847246832445:android:efc6c1bf2f152ba1d70b54",
+        "android_client_info": {
+          "package_name": "com.masonewingcorp.epp_film"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847246832445-dqqpdesmekhja09sus2afkkihjer0b7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0VymrY78MohB2RgkdFkdl2RBNQXp3_oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847246832445-dqqpdesmekhja09sus2afkkihjer0b7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

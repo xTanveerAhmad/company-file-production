@@ -1,0 +1,62 @@
+name: epp_film
+description: Mason Ewing Corporation
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.1 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  firebase_core: any
+  firebase_auth: any
+  provider: any
+  get: any
+  flutter_native_splash: ^2.2.10+1
+  dotted_border: ^2.0.0+2
+  dashed_rect: any
+  image_picker: any
+  nuid: ^2.1.0
+  cloud_firestore: any
+  firebase_storage: any
+  path: any
+  syncfusion_flutter_datagrid: ^20.3.48
+  cached_network_image: any
+  flutter_gradient_colors: ^2.1.1
+  substring_highlight: ^1.0.33
+  syncfusion_flutter_datagrid_export: ^20.3.48-beta
+  syncfusion_flutter_core: ^20.3.48
+  path_provider: ^2.0.11
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: "^0.10.0"
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+
+flutter_native_splash:
+  color: "#ffffff"
+
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/
